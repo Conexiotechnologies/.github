@@ -1,7 +1,7 @@
 # Conexio Technologies
 
 ### Hello
-Conexio provides **Stratus**: an all-in-one, sensor, GPS, out-of-the-box cellular connectivity, and compute platform based on nRF9160 for simplifying your connected IoT product journey.
+Conexio provides **Stratus**: an all-in-one, sensor, GPS, out-of-the-box cellular connectivity, and compute platform based on nRF9161, nRF9161, and nRF9160 for simplifying your connected IoT product journey.
 
 ### Product Page
 1. [Conexio Stratus](https://www.conexiotech.com/)
