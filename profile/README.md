@@ -5,8 +5,8 @@ Conexio provides IoT hardware + Cloud Platform.
 Our hardware **Stratus Pro** is all-in-one, sensor, GPS, out-of-the-box cellular connectivity, DEC NR+, NTN, and compute platform based on nRF91511, nRF9161, and nRF9160 for simplifying your connected IoT product journey.
 
 ### Product Page
-[Conexio Stratus Pro](https://www.conexiotech.com/)
-[Conexio Cloud](https://cloud.conexiotech.com/)
+1. [Conexio Stratus Pro](https://www.conexiotech.com/)
+2. [Conexio Cloud](https://cloud.conexiotech.com/)
 
 ### 📣 Find our Walk-through Tutorials here
 1. [Main Blog](https://www.rajeevpiyare.com/posts/)
